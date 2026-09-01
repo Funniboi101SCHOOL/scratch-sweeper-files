@@ -1,0 +1,16 @@
+{
+  "short_name": "ScratchApp",
+  "name": "My Scratch PWA Game",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#000000",
+  "theme_color": "#4c97ff",
+  "display": "standalone",
+  "orientation": "landscape"
+}
